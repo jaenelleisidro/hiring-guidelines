@@ -86,6 +86,13 @@
 * asp
 
 
+## python developer
+* js
+* ajax
+* django
+
+
+
 
 how to find phonegap developers
 there’s a lot of type of hybrid developers, the most popular is phonegap so make sure to ask if they are using the technology that you need.
